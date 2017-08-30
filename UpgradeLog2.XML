@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KSF Creator2">
+</Property><Property Name="Solution File" Value="E:\creative\KSF_Creator2 2008-05-05\KSF_Creator2\KSF Creator2.sln">
+</Property><Property Name="User Options File" Value="E:\creative\KSF_Creator2 2008-05-05\KSF_Creator2\KSF Creator2.suo">
+</Property><Property Name="Date" Value="2010년 5월 24일 월요일">
+</Property><Property Name="Time" Value="오전 11:24">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KSF Creator2.sln" Description="File successfully backed up as E:\creative\KSF_Creator2 2008-05-05\KSF_Creator2\KSF Creator2.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="KSF Creator2.suo" Description="File successfully backed up as E:\creative\KSF_Creator2 2008-05-05\KSF_Creator2\KSF Creator2.suo.old">
+</Event><Event ErrorLevel="0" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="Converting project file 'E:\creative\KSF_Creator2 2008-05-05\KSF_Creator2\KSF Creator2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="Done converting to new project file 'E:\creative\KSF_Creator2 2008-05-05\KSF_Creator2\KSF Creator2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="KSF Creator2" Source="KSF Creator2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KSF Creator2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="KSF Creator2.sln" Description="Converted">
+</Event></UpgradeLog>
